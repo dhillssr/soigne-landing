@@ -51,12 +51,20 @@
 }  
 
 
+
 .container{
     background-image: url(images/LoraKrBG.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
     position: relative;
+    
+
+}
+
+.content{
+  border: 2px solid rgb(16, 205, 76);
+  width: 40rem;
 
 }
 
